@@ -22,12 +22,12 @@
 ---
 # 📌
 # 由于exe为29MB无法上传请自行打包：
-win+r
-cmd+enter
-pip install pillow
-cd "D:\MyExe03"（cd空格加py文件位置）
-pyinstaller -F -w -i "文件名导出.ico" "文件名导出.py"
-会生成dist文件夹，exe在这个文件夹里面。
+## win+r
+## cmd+enter
+## pip install pillow
+## cd "D:\MyExe03"（cd空格加py文件位置）
+## pyinstaller -F -w -i "文件名导出.ico" "文件名导出.py"
+## 会生成dist文件夹，exe在这个文件夹里面。
 
 exe界面：
 # │ 文件名导出工具                               
