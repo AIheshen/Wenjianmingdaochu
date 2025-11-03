@@ -1,0 +1,2 @@
+# Wenjianmingdaochu
+导出某一文件夹内所有文件名称为exe
