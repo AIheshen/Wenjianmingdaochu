@@ -20,7 +20,8 @@
 | 🔔 自动打开导出目录 | 导出完成后自动打开保存位置 |
 
 ---
-📌#由于exe为29MB无法上传请自行打包：
+# 📌
+# 由于exe为29MB无法上传请自行打包：
 win+r
 cmd+enter
 pip install pillow
